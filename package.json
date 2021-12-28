@@ -1,0 +1,25 @@
+{
+  "name": "challenge11-notetaker",
+  "version": "1.0.0",
+  "description": "Application that captures and deletes notes ",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolePM/challenge11-noteTaker.git"
+  },
+  "author": "Chanel Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolePM/challenge11-noteTaker/issues"
+  },
+  "homepage": "https://github.com/NicolePM/challenge11-noteTaker#readme"
+}
